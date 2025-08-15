@@ -19,9 +19,10 @@ h3 {
 /* p要素の文字色、文字色、文字サイズを宣言 */
 p {
     color: #000080;
-    font-size: 0.5rem;
+    font-size: 0.5rem; /* 0.5remと50%は同じ意味 */
 }
 
+   
 /* 「色」の文字色を宣言 */
 span {
     color: red;
